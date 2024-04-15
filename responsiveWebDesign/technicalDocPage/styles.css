@@ -58,8 +58,11 @@ body {
   header {
     font-weight: 400;
     font-size: 1.8rem;
-    margin: 0.7rem 0;
     color: black;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    padding: 1rem 0;
   }
   article {
     padding: 0 0.7rem;
