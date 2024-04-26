@@ -68,3 +68,7 @@ body {
     margin: 0;
   }
 }
+
+#how-it-works iframe {
+  max-width: 100%;
+}
